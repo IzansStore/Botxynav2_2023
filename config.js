@@ -57,20 +57,20 @@ global.tautanwa = 'https://wa.me/6289688206739'
 global.wame = 'https://wa.me/6289688206739' // kalau gk punya bisa ganti pake gini wa.me/6289688206739
 
 /*============== PAYMENT ==============*/
-global.pdana = '089688206739' //dana
-global.povo = '089688206739' //ovo
-global.pgopay = '089688206739' //gopay
-global.plinkaja = '089688206739' //link aja
-global.ppulsa = '089688206739' //telkomsel
-global.ppulsa2 = '089688206739' // kalau ada kartu lain isi aja
+global.pdana = '6282298627146' //dana
+global.povo = '6282298627146' //ovo
+global.pgopay = '6282298627146' //gopay
+global.plinkaja = '6282298627146' //link aja
+global.ppulsa = '6282298627146' //telkomsel
+global.ppulsa2 = '6282298627146' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.co/kagakusah'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289688206739'
-global.nomorown = '6289688206739'
-global.nomorown1 = '6289688206739' //pake No Pacar lo Juga Boleh
-global.namebot = '𝗔𝘀𝗵𝗶 𝗕𝗼𝘁'
-global.nameown = '𝗪𝗶𝗹𝘆 𝗞𝘂𝗻'
+global.nomorbot = '6282298626146'
+global.nomorown = '6282298627146'
+global.nomorown1 = '6282298627146' //pake No Pacar lo Juga Boleh
+global.namebot = 'ZaaBot'
+global.nameown = 'FazaMd'
 global.nameown1 = 'imau nagita' //Pake Nama Pacar Lo Juga Boleh
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INFO BIO DATA OWN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -84,7 +84,7 @@ global.linkgithub = 'https://www.facebook.com/wily.kun.1' // tarok link github l
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289688206739', 'Wily Kun', true],
+  ['082298627146', 'FazaMd', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -97,20 +97,20 @@ global.prems = []
 global.gcname = 'Group Bot V1'//nama group kalian
 global.readMore = readMore
 global.wm = '                「 𝗔𝘀𝗵𝗶 𝗕𝗼𝘁 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝗔𝘀𝗵𝗶 𝗕𝗼𝘁 MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝗔𝘀𝗵𝗶 𝗕𝗼𝘁 '
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Zaa 𝗕𝗼𝘁 MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Zaa𝗕𝗼𝘁 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝗔𝘀𝗵𝗶 𝗕𝗼𝘁`
+global.titlebot = `⫹⫺ WhatsApp Bot | By FazaMd`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '              「 𝗔𝘀𝗵𝗶 𝗕𝗼𝘁  🔥」'
+global.author = '              「 FazaMd  🔥」'
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 global.danied = pickRandom(["✘ 𝗘𝗿𝗼𝗿 𝟰𝟬𝟰","𝘼𝙠𝙨𝙚𝙨 𝘿𝙞𝙩𝙤𝙡𝙖𝙠","⚠️ 𝘼𝙘𝙘𝙨𝙚𝙨 𝘿𝙖𝙣𝙞𝙚𝙙 ⚠️"])
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝗔𝘀𝗵𝗶 𝗕𝗼𝘁'
-global.stickauth = `By 𝗪𝗶𝗹𝘆`
+global.stickpack = 'Zaa 𝗕𝗼𝘁'
+global.stickauth = `By FazaMd`
  
 /*============== LOGO ==============*/
 global.fotonya1 = 'https://telegra.ph/file/2b16380197a08333517ba.jpg' 
@@ -852,7 +852,7 @@ global.flaaa = fla
 global.dtu = 'Gc Bot'
 global.urlnya = "https://chat.whatsapp.com/FihZbq4PU461pNv1IC9InT"
 global.dtc = 'No Owner'
-global.phn = '6289688206739'
+global.phn = '6282298627146'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
